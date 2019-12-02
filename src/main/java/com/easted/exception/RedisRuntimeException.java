@@ -1,4 +1,4 @@
-package com.wj.exception;
+package com.easted.exception;
 
 /**
  * @author jun.wang
